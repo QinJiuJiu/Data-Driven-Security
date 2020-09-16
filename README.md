@@ -45,6 +45,8 @@ Based on the characteristics of the attack pattern, the data of day 8 was predic
 
 TIPS: since the data set is too large, there is no attachment. Download the link:
 
+https://csr.lanl.gov/data/cyber1/
+
 Dataset contains data for key steps:
 
 * Features extracted from proc (8 classes) ：attack_pattern_proc
